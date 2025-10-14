@@ -6,6 +6,24 @@ The project focuses on composable component architecture, state-driven logic, an
 
 ---
 
+<h3 align="center">📸 Project Preview</h3>
+
+<p align="center">
+  <img src="./src/assets/1.png" alt="Preview 1" width="500"/>
+</p>
+
+<p align="center">
+  <img src="./src/assets/2.png" alt="Preview 2" width="500"/>
+</p>
+
+<p align="center">
+  <img src="./src/assets/3.png" alt="Preview 3" width="500"/>
+</p>
+
+
+
+---
+
 ## Project Overview
 
 The application presents a series of questions that users must answer within a time limit.  
