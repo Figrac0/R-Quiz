@@ -6,6 +6,20 @@ The project focuses on composable component architecture, state-driven logic, an
 
 ---
 
+<div align="center">
+
+<h3>🎯 Quick Access - Click Below to Visit</h3>
+
+<div style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin: 30px 0;">
+
+<a href=https://r-quiz-beryl.vercel.app/" target="_blank" style="text-decoration: none;">
+  <div style="background: linear-gradient(135deg, #667eea, #764ba2); padding: 15px 30px; border-radius: 12px; color: white; font-weight: bold; font-size: 18px; box-shadow: 0 4px 15px rgba(102, 126, 234, 0.3); transition: all 0.3s ease; border: 2px solid white;">
+    🎬 Animation Demo
+  </div>
+</a>
+
+---
+
 <h3 align="center">📸 Project Preview</h3>
 
 <p align="center">
