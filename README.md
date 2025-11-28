@@ -9,6 +9,11 @@ The project focuses on composable component architecture, state-driven logic, an
 <h3 align="center">📸 Project Preview</h3>
 
 <p align="center">
+  <img src="https://github.com/Figrac0/R-Quiz/blob/main/src/assets/gif.gif" width="600"/><br/>
+  
+</p>
+
+<p align="center">
   <img src="./src/assets/1.png" alt="Preview 1" width="500"/>
 </p>
 
