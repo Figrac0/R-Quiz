@@ -37,7 +37,7 @@ The project focuses on composable component architecture, state-driven logic, an
   <img src="./src/assets/3.png" alt="Preview 3" width="500"/>
 </p>
 
-
+</div>
 
 ---
 
